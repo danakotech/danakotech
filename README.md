@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="[https://white-subsequent-sawfish-241.mypinata.cloud/ipfs/bafybeidlzxue26jxsdm5cqibpv4viou3l3ljlq7swwwh2zlfj3npkxan3e" 
+  <img src="https://white-subsequent-sawfish-241.mypinata.cloud/ipfs/bafybeidlzxue26jxsdm5cqibpv4viou3l3ljlq7swwwh2zlfj3npkxan3e" 
        alt="Confidentiality & Cybersecurity" 
        width="100%" style="border-radius:15px;"/>
 </p>
