@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me Danako & Azazel7 
 🔒 **Cybersecurity Enthusiast**  
 💡 Passionate about **Blockchain & Bitcoin**  
 🚀 Exploring the intersection of **privacy, security, and decentralized tech**  
@@ -21,7 +21,7 @@
 
 ## ⚡ Tech Interests  
 - 🛡️ Cybersecurity & Ethical Hacking  
-- ₿ Bitcoin Core & Lightning Network  
+- ₿  Bitcoin Core & Lightning Network  
 - ⛓️ Blockchain Development & Smart Contracts  
 - 🔐 Privacy, Encryption & Zero-Knowledge Proofs  
 
@@ -30,7 +30,7 @@
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://github.com/danakotech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:0xf81cb764329b84550fad3f0b849015509e0415c7@ethermail.io"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:admin@sedebitcoin.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
