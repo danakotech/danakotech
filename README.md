@@ -1,11 +1,11 @@
-<!-- HEADER IMAGE -->
+<!-- Turuleando Azazel7 -->
 <p align="center">
   <img src="https://white-subsequent-sawfish-241.mypinata.cloud/ipfs/bafybeidlzxue26jxsdm5cqibpv4viou3l3ljlq7swwwh2zlfj3npkxan3e" 
        alt="Confidentiality & Cybersecurity" 
        width="60%" style="border-radius:15px;border:2px solid #00ff00;box-shadow:0 0 10px #00ff00;"/>
 </p>
 
-<!-- ASCII BANNER -->
+<!-- Letruelas -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Confidentiality+is+Freedom;Cybersecurity+is+My+Passion;Bitcoin+is+the+Future" alt="Typing SVG" />
 </h1>
