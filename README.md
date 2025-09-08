@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://white-subsequent-sawfish-241.mypinata.cloud/ipfs/bafybeidlzxue26jxsdm5cqibpv4viou3l3ljlq7swwwh2zlfj3npkxan3e" 
        alt="Confidentiality & Cybersecurity" 
-       width="100%" style="border-radius:15px;"/>
+       width="60%" style="border-radius:15px;border:2px solid #00ff00;box-shadow:0 0 10px #00ff00;"/>
 </p>
 
 <!-- ASCII BANNER -->
