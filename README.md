@@ -1,6 +1,6 @@
 <!-- Turuleando Azazel7 -->
 <p align="center">
-  <img src="[https://white-subsequent-sawfish-241.mypinata.cloud/ipfs/bafybeidlzxue26jxsdm5cqibpv4viou3l3ljlq7swwwh2zlfj3npkxan3e](https://plus.unsplash.com/premium_photo-1681400668073-a1947604dd36?q=80&w=2079&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" 
+  <img src="https://white-subsequent-sawfish-241.mypinata.cloud/ipfs/bafybeidlzxue26jxsdm5cqibpv4viou3l3ljlq7swwwh2zlfj3npkxan3e](https://plus.unsplash.com/premium_photo-1681400668073-a1947604dd36?q=80&w=2079&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://images.theconversation.com/files/321315/original/file-20200318-37392-xcl8y5.jpg?ixlib=rb-4.1.1&rect=233%2C556%2C5281%2C2640&q=50&auto=format&w=1336&h=668&fit=crop&dpr=2" 
        alt="Confidentiality & Cybersecurity" 
        width="60%" style="border-radius:15px;border:2px solid #00ff00;box-shadow:0 0 10px #00ff00;"/>
 </p>
