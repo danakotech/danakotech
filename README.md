@@ -1,36 +1,59 @@
-<!-- Turuleando Azazel7 -->
+<!-- ⛓️ Azazel7 · danakotech -->
 <p align="center">
-  <img src="https://white-subsequent-sawfish-241.mypinata.cloud/ipfs/bafybeidlzxue26jxsdm5cqibpv4viou3l3ljlq7swwwh2zlfj3npkxan3e](https://plus.unsplash.com/premium_photo-1681400668073-a1947604dd36?q=80&w=2079&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://images.theconversation.com/files/321315/original/file-20200318-37392-xcl8y5.jpg?ixlib=rb-4.1.1&rect=233%2C556%2C5281%2C2640&q=50&auto=format&w=1336&h=668&fit=crop&dpr=2" 
-       alt="Confidentiality & Cybersecurity" 
-       width="60%" style="border-radius:15px;border:2px solid #00ff00;box-shadow:0 0 10px #00ff00;"/>
+  <img src="./assets/banner.svg" width="100%" alt="Azazel7 — Cybersecurity · Bitcoin · Blockchain" />
 </p>
 
-<!-- Letruelas -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Confidentiality+is+Freedom;Cybersecurity+is+My+Passion;Bitcoin+is+the+Future" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F7931A&center=true&vCenter=true&width=650&lines=Confidentiality+is+Freedom;Don%27t+trust%2C+verify.;Cybersecurity+is+my+passion;Bitcoin+is+the+Future" alt="Confidentiality is Freedom · Don't trust, verify · Bitcoin is the Future" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmempool.space%2Fapi%2Fblocks%2Ftip%2Fheight&query=%24&label=%E2%9B%93%EF%B8%8F%20block%20height&color=F7931A&labelColor=0d1117&style=for-the-badge" alt="Live Bitcoin block height" />
+  <img src="https://img.shields.io/badge/supply-21%2C000%2C000-00FFCC?style=for-the-badge&labelColor=0d1117" alt="21M" />
+  <img src="https://img.shields.io/badge/don't%20trust-verify-00FFCC?style=for-the-badge&labelColor=0d1117" alt="Don't trust, verify" />
+</p>
 
 ---
 
-## 👨‍💻 About Me Danako & Azazel7 
-🔒 **Cybersecurity Enthusiast**  
-💡 Passionate about **Blockchain & Bitcoin**  
-🚀 Exploring the intersection of **privacy, security, and decentralized tech**  
+## 👨‍💻 `$ whoami`
 
----
+```yaml
+alias:     Danako · Azazel7
+role:      Cybersecurity enthusiast · Bitcoin & blockchain builder
+mission:   Exploring the intersection of privacy, security and decentralized tech
+believes:  "Confidentiality is freedom. Code is law. Bitcoin is the future."
+status:    🟢 running a node · verifying, not trusting
+```
 
-## ⚡ Tech Interests  
-- 🛡️ Cybersecurity & Ethical Hacking  
-- ₿  Bitcoin Core & Lightning Network  
-- ⛓️ Blockchain Development & Smart Contracts  
-- 🔐 Privacy, Encryption & Zero-Knowledge Proofs  
+## ⚡ Tech Interests
 
----
+| 🛡️ **Cybersecurity** | ₿ **Bitcoin** |
+|:--|:--|
+| Ethical hacking, pentesting & threat analysis | Bitcoin Core & the Lightning Network |
+| **⛓️ Blockchain** | **🔐 Privacy** |
+| Smart contracts & decentralized applications | Encryption & Zero-Knowledge Proofs |
 
-## 🌐 Connect with Me  
+## 🧰 Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://github.com/danakotech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:admin@sedebitcoin.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- Optional: <a href="https://njump.me/npub..."><img src="https://img.shields.io/badge/Nostr-8E44AD?style=for-the-badge&logo=nostr&logoColor=white" /></a> -->
 </p>
 
 ---
+
+<p align="center"><sub>⛏️ Block by block · 🔐 Encrypt everything · ₿ Stay humble, stack sats</sub></p>
