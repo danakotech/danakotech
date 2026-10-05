@@ -1,6 +1,6 @@
 <!-- ⛓️ Azazel7 · danakotech -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Azazel7 — Cybersecurity · Bitcoin · Blockchain" />
+  <img src="./assets/banner.svg" width="100%" alt="FelixLE — Cybersecurity · Bitcoin · Blockchain" />
 </p>
 
 <p align="center">
